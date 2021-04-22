@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.right {
+  float: right !important;
+}
+
+.right-margin-left {
+  float: right !important;
+}
+.margin-left{
+  margin-left: 3px;
+}
+.margin {
+  margin: 0 auto !important;
+}
+.margin-min {
+  margin: 1px;
+  float: right;
+}
+.space-btn-extensed {
+  width: 20% !important;
+}
+.space-btn-pedidos {
+  width: 12% !important;
+}
+.space-btn {
+  width: 8% !important;
+}
+.block-green {
+  background: green !important;
+}
+.block-yellow {
+  background: yellow !important;
+}
